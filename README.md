@@ -1,2 +1,3 @@
 # Python-
-Projectos criado durante Curso 
+Projetos de estudos 
+
