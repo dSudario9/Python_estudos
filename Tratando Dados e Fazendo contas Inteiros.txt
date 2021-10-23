@@ -1,0 +1,25 @@
+
+#Somando Numero Inteiros com as Funções ('int (input))
+n1 = int (input('Digite o primeiro numero'))
+n2 = int (input('Digite o Segundo numero'))
+soma= n1+n2
+
+print('A Soma entre {n1} e {n2} vale{soma}'.format(n1,n2),'é',soma)
+
+#outra formas
+#soma= n1-n2
+#soma= n1+n2
+#soma= n1/n2
+#soma= n1*n2
+
+#Formas de Mostra resultados#
+#print('A Soma entre', n1, e ,n2, e =',soma)
+#print('A Soma entre {} e {}'.format(n1,n2),'é',soma)
+#print('A Soma entre {} e {}'.format(n1,n2 ,soma))
+
+#print('A Soma entre', n1, 'e' ,n2,'é',soma)
+
+# print(n1+n2)        print(nomedavariavel)
+
+
+

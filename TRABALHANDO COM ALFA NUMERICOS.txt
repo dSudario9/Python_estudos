@@ -1,0 +1,8 @@
+# string  com as Funções ('int (input))
+n1 =input('Digite o primeiro numero ' )
+
+#true Verdadeiro
+#FALSE  FALSO.
+
+#print(n1.isalnum()) Aceita somente alfanumericos exemplo 3F 4A FF 33 . Nao aceita 3-e 4.F
+#print(n1.isnumeric()) Aceita somente numeros

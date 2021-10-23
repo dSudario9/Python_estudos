@@ -1,0 +1,24 @@
+
+# Mostrando detalhes do que é digitado no teclado .
+n1 = input('Digite  ' )
+
+print('O tipo primitivo desse valor é',type(n1))
+
+#MOSTRA CLASES DO QUE É DIGITADO NO TECLADO
+
+#print ('Tem espaços? ', n1.isspace())         #VERIFICAR SE TEM ESPAÇOS NA LINHA DIGITADA.
+#print('É um Numero ?', n1.isnumeric())        #VERIFICA SE É NUMERAL
+#print('É Alfabetico',n1.isalpha())
+#print('É Alfanumerico', n1.isalnum())
+#print('Está em Maiúsculas',n1.isupper())
+#print('Esta em Minúsculas ',n1.islower())
+#print('Esta Capitalizada', n1.istitle())
+
+
+#n2 = bool (input('Digite ' ))
+#n3 = str (input('Digite ' ))
+#n4 = float (input('Digite ' ))
+
+#print(type(n2))
+#print(type(n3.isalpha()))
+#print(type(n4))

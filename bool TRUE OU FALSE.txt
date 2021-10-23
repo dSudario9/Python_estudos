@@ -1,0 +1,8 @@
+# bool  com as Funções ('int (input))
+n1 = bool  (input('Digite o primeiro numero'))
+
+#true Verdadeiro
+#FALSE  FALSO.
+
+
+print(n1)
