@@ -1,3 +1,3 @@
-# Python-
+# Python
 Projetos de estudos 
 
